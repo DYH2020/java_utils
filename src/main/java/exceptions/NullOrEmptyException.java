@@ -1,7 +1,7 @@
 package exceptions;
 
 /**
- * Created by huangguoping.
+ * 空指针异常类
  */
 public class NullOrEmptyException extends Exception {
     private String message = "";
